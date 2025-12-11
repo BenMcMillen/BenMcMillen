@@ -6,7 +6,7 @@ I'm a casual academic and final-year **Computer Science and Mechatronics Enginee
 ## Developed Projects  
 [**Piezoelectric Energy Harvester (Thesis)**](https://github.com/BenMcMillen/Undergraduate-Thesis) → Simulated vortex-induced vibrations, multi-harvester interactions, and enclosure design to optimise energy generation for autonomous underwater systems. 🔋🌱  
 [**ParkPilot**](https://github.com/unsw-cse-comp99-3900/capstone-project-25t3-3900-f11a-date) → Contributed to the full-stack development of a smart-parking and carbon-tracking application using React Native and FastAPI/Flask. 🚗📱  
-[**Personal Website**](https://personal-website-iota-three-40.vercel.app/) → Developed personal website to display current projects using ReactJS and JavaScript.📱 
+[**Personal Website**](https://personal-website-iota-three-40.vercel.app/) → Developed personal website to display current projects using ReactJS and JavaScript.📱  
 **Robot Implementation** [Request for Access] → Coded the backend for a 4-wheel robot implementation, applying object-oriented programming principles including abstraction, polymorphism, and encapsulation.  
 [**Hand Gesture Robot**](https://github.com/BenMcMillen/HandGestureRobot) → Developed a robot capable of movement via real-time hand-gesture recognition using Arduino and embedded sensing. 🤖🖐️  
 [**Maze Solver**](https://github.com/BenMcMillen/Maze-Solver) → Maze generation and solving program demonstrating Depth First Search and Breadth First Search algorithms. 🧩
